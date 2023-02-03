@@ -1,0 +1,6 @@
+config:
+  aws:profile: sandbox
+  aws:region: us-west-2
+  static-website-aws-python:errorDocument: error.html
+  static-website-aws-python:indexDocument: index.html
+  static-website-aws-python:path: ./www
